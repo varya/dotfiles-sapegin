@@ -15,6 +15,7 @@ brew "git-delta" # Diff pager for `git` and `grep` output
 brew "lazygit" # Git client
 brew "macos-trash" # `rm` replacement with MacOS trash support
 brew "node" # Fallback Node.js version
+brew "nvm"
 brew "ripgrep" # `grep` replacement
 brew "rsyncy" # `rsync` replacement
 brew "starship" # Prompt manager
@@ -55,6 +56,8 @@ cask "telegram"
 cask "visual-studio-code"
 cask "wezterm" # Terminal emulator
 cask "whatsapp"
+cask "zoom"
+cask "camo-studio"
 
 # Fonts
 cask "font-symbols-only-nerd-font"
