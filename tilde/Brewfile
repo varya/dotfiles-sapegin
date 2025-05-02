@@ -1,4 +1,5 @@
 # Taps
+
 tap "git-friendly/git-friendly"
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
@@ -27,9 +28,9 @@ brew "git-friendly/git-friendly/git-friendly" # Better Git commands
 
 # GUI apps
 cask "1password" # Password manager
-cask "adobe-creative-cloud"
-cask "alfred" # App launcher
-cask "bruno" # GraphQL API client
+# cask "adobe-creative-cloud"
+# cask "alfred" # App launcher
+# cask "bruno" # GraphQL API client
 cask "choosy" # Browser selector
 cask "chromium", args: { no_quarantine: true }
 cask "cleanshot" # Screenshots
@@ -39,25 +40,28 @@ cask "dash" # Documentation reader
 cask "devtoys" # Collection of developer tools
 cask "firefox"
 cask "firefox@developer-edition"
-cask "ghostty" # Terminal emulator
+# cask "ghostty" # Terminal emulator
+cask "iterm2"
 cask "github" # GitHub Desktop
 cask "jordanbaird-ice" # Hides menu bar icons
-cask "kap" # Video screen recording
-cask "keka" # Archive reader
-cask "mimestream" # Gmail client
-cask "nimble-commander" # File manager
+# cask "kap" # Video screen recording
+# cask "keka" # Archive reader
+# cask "mimestream" # Gmail client
+# cask "nimble-commander" # File manager
 cask "notion"
-cask "numi" # Calculator
+# cask "numi" # Calculator
 cask "optimage" # Image optimization
 cask "polypane" # Responsive design and accessibility testing
-cask "quitter" # Quit apps after certain time
-cask "replacicon" # Custom app icons
+# cask "quitter" # Quit apps after certain time
+# cask "replacicon" # Custom app icons
 cask "telegram"
 cask "visual-studio-code"
-cask "wezterm" # Terminal emulator
+# cask "wezterm" # Terminal emulator
 cask "whatsapp"
 cask "zoom"
 cask "camo-studio"
+
+cask "yandex-disk"
 
 # Fonts
 cask "font-symbols-only-nerd-font"
