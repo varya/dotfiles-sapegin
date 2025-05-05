@@ -40,6 +40,7 @@ cask "dash" # Documentation reader
 cask "devtoys" # Collection of developer tools
 cask "firefox"
 cask "firefox@developer-edition"
+cask "google-chrome"
 # cask "ghostty" # Terminal emulator
 cask "iterm2"
 cask "github" # GitHub Desktop
